@@ -1,0 +1,56 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.first
+{
+ background-color: teal;
+ display: flex;
+ justify-content: center;
+ align-items: flex-start;
+ padding: 10%;
+ height: 100vh;
+}
+table
+{
+    border-collapse: collapse;
+}   
+table thead tr th
+{
+    padding: 1em ;
+    border: 2px solid black;
+    color: aliceblue;
+    font-weight: bold;
+}
+
+
+ */
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.first
+{
+ background-color: rgb(149, 223, 223);
+ display: flex;
+ justify-content: center;
+ align-items: flex-start;
+ padding: 5rem;
+ height: 100vh;
+}
+.tableside{
+    padding: 1rem;
+    
+}
+.heading{
+    padding: 1em;
+    color: blue;
+}
+.gobut{
+    padding: .5em;
+    margin-top: 8rem;
+    /* margin-right: 7rem; */
+    margin-left: 2em;
+}
